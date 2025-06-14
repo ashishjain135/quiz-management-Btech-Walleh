@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>CSS Quiz - Btech Walleh</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="navbar">
+    <img src="logo.png" alt="Logo" />
+    <h2>Btech Walleh</h2>
+  </div>
+
+  <div class="main-container">
+    <div class="box">
+      <h2>CSS Quiz</h2>
+      <div id="quiz-box">
+        <p id="question-counter">Question 1 of 5</p>
+        <p id="timer">Time Left: <span id="time">40</span> sec</p>
+        <h3 id="question-text">Loading question...</h3>
+        <div id="options"></div>
+
+        <div style="margin-top: 20px;">
+          <button id="prevBtn">Previous</button>
+          <button id="nextBtn">Next</button>
+          <button id="submitBtn" style="display:none;">Submit</button>
+        </div>
+      </div>
+      <div id="result" style="display:none; margin-top: 20px;"></div>
+    </div>
+  </div>
+
+  <script src="quizcss.js"></script>
+</body>
+</html>
