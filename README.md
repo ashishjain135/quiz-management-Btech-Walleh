@@ -66,7 +66,7 @@ This is a basic Quiz Management platform built as part of the Software Developme
 ![Login Page](frontend/screenshots/login.png)
 
 ### 📝 Register Page
-![Register Page](frontend\screenshots\registration.png)
+![Register Page](frontend/screenshots\registration.png)
 
 ### ❓ Quiz Page
 ![Quiz Page](frontend/screenshots/quizjs.png)
