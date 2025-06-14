@@ -45,7 +45,6 @@ This is a basic Quiz Management platform built as part of the Software Developme
 |   ├── registration.html
 |   ├── registration.js
 |   ├── style.css
-|   ├── readme.md
 
 
 ## 📌 Notes
